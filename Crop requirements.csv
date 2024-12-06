@@ -1,0 +1,8 @@
+Growth Stages,No. of days,Required VMC(Volumetric Moisture Content),Root Depth Zone,Kc
+Initial,0-30,30,0-30,0.3
+Development,31-50,35,31-55,0.52
+Mid,51-70,37,56-70,1.14
+Late,71-140,40,71-85,0.68
+,,,,
+,,,,
+*Note: for Irrigation of Wheat only No.days of days should be considered upto 90 because after that No water is given,,,,
